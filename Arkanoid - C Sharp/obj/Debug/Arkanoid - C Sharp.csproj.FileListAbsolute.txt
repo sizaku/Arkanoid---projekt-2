@@ -1,0 +1,10 @@
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\bin\Debug\Arkanoid - C Sharp.exe.config
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\bin\Debug\Arkanoid - C Sharp.exe
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\bin\Debug\Arkanoid - C Sharp.pdb
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid - C Sharp.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid___C_Sharp.Form1.resources
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid___C_Sharp.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid - C Sharp.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid - C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid - C Sharp.exe
+C:\Users\Tomek\Desktop\Arkanoid - C Sharp\Arkanoid - C Sharp\obj\Debug\Arkanoid - C Sharp.pdb
